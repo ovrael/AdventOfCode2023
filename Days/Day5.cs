@@ -18,6 +18,11 @@ namespace AdventOfCode2023.Days
                     .Select(s => long.Parse(s.Trim())).ToArray(); // Trim and parse to int
             }
 
+            /// <summary>
+            /// BRUTE SEARCH :(
+            /// </summary>
+            /// <param name="seedsLine"></param>
+            /// <returns></returns>
             public static long GetMinLocationForPart2(string seedsLine)
             {
                 //56931769

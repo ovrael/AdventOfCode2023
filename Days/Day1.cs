@@ -53,7 +53,7 @@ namespace AdventOfCode2023.Days
                 result += 10 * leftDigit + rightDigit;
             }
 
-            Console.WriteLine($"Result for Day 1 is: {result}");
+            Console.WriteLine($"Result for Day 1 Part 2 is: {result}");
         }
 
         private static int TryGetTextDigit(string line, int i)
