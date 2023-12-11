@@ -2,7 +2,7 @@
 
 namespace AdventOfCode2023.Days
 {
-    public static class Day6
+    public static class Day06
     {
         // Time:        62     64     91     90
         // Distance:   553   1010   1473   1074

@@ -2,7 +2,7 @@
 
 namespace AdventOfCode2023.Days
 {
-    public static class Day2
+    public static class Day02
     {
         private static readonly Dictionary<string, int> maxCubes = new Dictionary<string, int>()
         {

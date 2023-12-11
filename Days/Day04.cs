@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode2023.Days
 {
-    public static class Day4
+    public static class Day04
     {
         public static void RunPart1()
         {

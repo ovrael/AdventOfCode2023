@@ -2,7 +2,7 @@
 
 namespace AdventOfCode2023.Days
 {
-    public static class Day5
+    public static class Day05
     {
         private static class Almanac
         {
